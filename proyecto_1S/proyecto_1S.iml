@@ -164,5 +164,27 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-jcl:5.3.16" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-expression:5.3.16" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.aspectj:aspectjweaver:1.9.8" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/test/resources/web_driver/Libreria/Edwin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/src/test/resources/web_driver/Libreria/Edwin.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/src/test/resources/Libreria/Edwin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/src/test/resources/Libreria/Edwin.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
