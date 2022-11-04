@@ -36,7 +36,7 @@ public class ejecutarFlujoPayroll {
 
     static String btnAceptarTerminos = "return /html/body/center/table/tbody/tr[4]/td/table[1]/tbody/tr[3]/td/table/tbody/tr/td[2]/a/button";
 
-    @BeforeTest
+
     public void chromedriver() {
         WebDriverManager.chromedriver().setup();
 
@@ -47,7 +47,7 @@ public class ejecutarFlujoPayroll {
 
 
 
-    @Test
+
     public void a() {
 
 
